@@ -7,5 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elfein7Night&layout=compact)](https://github.com/Elfein7Night?tab=repositories)
 
+![Visitors # Badge](https://visitor-badge.glitch.me/badge?page_id=elfein7night.elfein7night&style=flat-square&color=0088cc)
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
